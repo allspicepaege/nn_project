@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.log
+*.lprof
+*.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# pyre
+.pyre/
+
+# profiling data
+.prof
+
+# SQL database
+*.sqlite3
+
+# Docker
+*.env
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Node modules (for projects with both Python and Node.js dependencies)
+node_modules/
+
+
+.virtual_documents
+
+IIC/
+myenv/

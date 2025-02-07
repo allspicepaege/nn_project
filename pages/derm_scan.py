@@ -22,7 +22,7 @@ def main():
 
     # Отображение логотипа
     logo = Image.open('images/logo_skin.jpg')
-    st.image(logo, width=200)
+    st.image(logo, width=800)
 
     # Интерфейс Streamlit
     st.title('DermScan: Классификация образований на коже')

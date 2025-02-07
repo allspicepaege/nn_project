@@ -41,8 +41,8 @@ def main():
     training_graph = Image.open('images/metrics_accuracy2.jpg')
     st.image(training_graph, caption='accuracy', use_container_width=True)
 
-    st.subheader('График обучения - f1-score')
-    training_graph = Image.open('images/metrics_f1-score2.jpg')
+    st.subheader('График обучения - metrics_f1-score')
+    training_graph = Image.open('images/metrics_f1-score.jpg2.png')
     st.image(training_graph, caption='f1-score', use_container_width=True)
 
     st.subheader('График обучения - Confusion Matrix')
